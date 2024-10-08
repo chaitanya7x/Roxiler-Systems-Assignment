@@ -1,3 +1,5 @@
+# Roxiler Systems Assignment - Transaction Dashboard
+
 This project is a Transaction Dashboard built using the MERN stack (MongoDB, Express.js, React, Node.js). The application allows users to view and analyze transaction data with various statistics, a bar chart, and a pie chart.
 
 ## Features
@@ -46,9 +48,11 @@ This project is a Transaction Dashboard built using the MERN stack (MongoDB, Exp
     npm install
 
 5. **Set up your MongoDB database**:
-    In Roxiler-Systems-Assignment\Backend\server.js 
-    mongodb://localhost:27017/
-    Change the localhost address as per your MongoDB
+
+   In the `Roxiler-Systems-Assignment/backend/server.js` file, update the MongoDB connection string:
+
+   ```js
+   mongodb://localhost:27017/
 
 ### Running the Application
 
