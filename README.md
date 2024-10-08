@@ -21,11 +21,6 @@ This project is a Transaction Dashboard built using the MERN stack (MongoDB, Exp
 
 ## Getting Started
 
-### Prerequisites
-
-- **Node.js**
-- **MongoDB**
-
 ### Installation
 
 1. **Clone the repository**:
