@@ -33,13 +33,13 @@ This project is a Transaction Dashboard built using the MERN stack (MongoDB, Exp
    ```bash
    cd Roxiler-Systems-Assignment
 
-3. **Install the backend dependencies:**:
+3. **Install the backend dependencies**:
 
     ```bash
    cd backend
    npm install
 
-4. **Install the frontend dependencies:**:
+4. **Install the frontend dependencies**:
 
     ```bash
    cd ../frontend
@@ -58,7 +58,7 @@ This project is a Transaction Dashboard built using the MERN stack (MongoDB, Exp
    cd backend
     npm start
 
-2. **In another terminal, start the frontend server:**:
+2. **In another terminal, start the frontend server**:
 
     ```bash
    cd frontend
