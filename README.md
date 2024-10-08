@@ -26,7 +26,7 @@ This project is a Transaction Dashboard built using the MERN stack (MongoDB, Exp
 1. **Clone the repository**:
 
    ```bash
-   git clone  https://github.com/chaitanya7x/Roxiler-Systems-Assignment.git
+   git clone https://github.com/chaitanya7x/Roxiler-Systems-Assignment.git
 
 2. **Navigate to the project directory**:
 
