@@ -60,7 +60,7 @@ This project is a Transaction Dashboard built using the MERN stack (MongoDB, Exp
 
     ```bash
    cd backend
-    npm start
+    node server.js
 
 2. **In another terminal, start the frontend server**:
 
